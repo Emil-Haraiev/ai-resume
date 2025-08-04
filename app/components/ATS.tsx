@@ -5,4 +5,4 @@ const ATS = () => {
         <div>Ats</div>
     )
 }
-export default Ats
+export default ATS
